@@ -1,0 +1,14 @@
+{
+  "name": "eduwork",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "cy.open": "cypress open",
+    "cy.run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "prettier": "^2.7.1"
+  }
+}
